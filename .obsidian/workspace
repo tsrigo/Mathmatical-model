@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 概率论与梳理统计（茆诗松）/2.5 常用连续分布.md",
+            "file": "02 概率论与梳理统计（茆诗松）/3.1 多维随机变量及其联合分布.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 概率论与梳理统计（茆诗松）/2.5 常用连续分布.md",
+                "file": "02 概率论与梳理统计（茆诗松）/3.1 多维随机变量及其联合分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 概率论与梳理统计（茆诗松）/2.5 常用连续分布.md",
+                "file": "02 概率论与梳理统计（茆诗松）/3.1 多维随机变量及其联合分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 概率论与梳理统计（茆诗松）/2.5 常用连续分布.md"
+                "file": "02 概率论与梳理统计（茆诗松）/3.1 多维随机变量及其联合分布.md"
               }
             }
           },
@@ -137,23 +137,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5044f7aee7b87b5f",
+  "active": "244f851fcecfe7c5",
   "lastOpenFiles": [
-    "01 日记/2022-08-28 周日.md",
-    "00 template/日记模板.md",
-    "00 template/YAML.md",
-    "00 template/mindmap.md",
     "00 inbox/test.md",
     "02 概率论与梳理统计（茆诗松）/2.5 常用连续分布.md",
+    "02 概率论与梳理统计（茆诗松）/3.1 多维随机变量及其联合分布.md",
+    "00 template/YAML.md",
+    "00 template/mindmap.md",
+    "01 日记/2022-08-28 周日.md",
+    "00 template/日记模板.md",
     "00 inbox/Home.md",
     "00 inbox/常用以及自定义快捷键.md",
-    "00 inbox/hhh.md",
-    "00 template/会议笔记.md"
+    "00 inbox/hhh.md"
   ]
 }
