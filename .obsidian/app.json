@@ -1,0 +1,16 @@
+{
+  "promptDelete": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "attachment",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 inbox",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "strictLineBreaks": true,
+  "communityPluginSortOrder": "download",
+  "foldIndent": true,
+  "showIndentGuide": true
+}

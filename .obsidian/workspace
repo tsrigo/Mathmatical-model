@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "50ec63f00f59924f",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e3a8e8acbe63a6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9acbf89477bf23c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4406fc9061039dd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "875ed97dff963cb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "17bd25279aa3c0c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#资源",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4076ffa2c3621cfb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "09e1fcc46f241fdb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd7582834116659c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7747f95b79f2666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb3098233c480e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9aaac81b9b406b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "244f851fcecfe7c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c63075d56d46a8d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "75228b835437a7b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "875ed97dff963cb6",
+  "lastOpenFiles": [
+    "00 template/会议笔记.md",
+    "00 template/mindmap.md",
+    "00 template/日记模板.md",
+    "00 template/YAML.md",
+    "00 inbox/hhh.md",
+    "00 inbox/常用以及自定义快捷键.md",
+    "00 inbox/试一下bookxnote导入ob.md",
+    "00 inbox/插件.md",
+    "00 inbox/Home.md",
+    "02 会议记录/哈哈哈哈哈哈哈哈哈.md"
+  ]
+}
