@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "00 inbox/Home.md"
-    },
-    {
       "basename": "2.5 常用连续分布",
       "path": "02 概率论与梳理统计（茆诗松）/2.5 常用连续分布.md"
+    },
+    {
+      "basename": "2022-08-28 周日",
+      "path": "01 日记/2022-08-28 周日.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "00 template/日记模板.md"
     },
     {
       "basename": "YAML",
@@ -17,12 +21,12 @@
       "path": "00 template/mindmap.md"
     },
     {
-      "basename": "日记模板",
-      "path": "00 template/日记模板.md"
+      "basename": "test",
+      "path": "00 inbox/test.md"
     },
     {
-      "basename": "2022-08-28 周日",
-      "path": "01 日记/2022-08-28 周日.md"
+      "basename": "Home",
+      "path": "00 inbox/Home.md"
     },
     {
       "basename": "常用以及自定义快捷键",

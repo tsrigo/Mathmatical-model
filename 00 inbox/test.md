@@ -1,0 +1,1 @@
+![[2.5 常用连续分布#2 5 1 正态分布 P115 bookxnotepro opennote nb 7B9b322c24-8e0d-49e7-9bb8-dda3470d6282 7D book 5ef7039c6fb568e87b1c7417b6d46f14 page 115 x 117 y 673 id 116 uuid 9704a03e83315e61126169e819a34bc1|正态分布]]
