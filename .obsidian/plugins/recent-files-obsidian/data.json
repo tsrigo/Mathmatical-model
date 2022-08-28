@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "hhh",
+      "path": "00 inbox/hhh.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00 inbox/Home.md"
+    },
+    {
       "basename": "mindmap",
       "path": "00 template/mindmap.md"
     },
@@ -13,10 +21,6 @@
       "path": "00 template/YAML.md"
     },
     {
-      "basename": "hhh",
-      "path": "00 inbox/hhh.md"
-    },
-    {
       "basename": "常用以及自定义快捷键",
       "path": "00 inbox/常用以及自定义快捷键.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "插件",
       "path": "00 inbox/插件.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 inbox/Home.md"
     },
     {
       "basename": "哈哈哈哈哈哈哈哈哈",
