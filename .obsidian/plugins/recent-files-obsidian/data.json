@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "第5讲.相关系数",
-      "path": "03 清风数模/第5讲.相关系数.md"
+      "basename": "05-03 皮尔逊相关系数假设检验",
+      "path": "03 清风数模/05-03 皮尔逊相关系数假设检验.md"
     },
     {
-      "basename": "3.1 多维随机变量及其联合分布",
-      "path": "02 概率论与数理统计（茆诗松）/3.1 多维随机变量及其联合分布.md"
+      "basename": "05-01 皮尔逊相关系数的计算以及数据的描述性统计",
+      "path": "03 清风数模/05-01 皮尔逊相关系数的计算以及数据的描述性统计.md"
+    },
+    {
+      "basename": "常用以及自定义快捷键",
+      "path": "00 inbox/常用以及自定义快捷键.md"
+    },
+    {
+      "basename": "test",
+      "path": "00 inbox/test.md"
     },
     {
       "basename": "Home",
       "path": "00 inbox/Home.md"
+    },
+    {
+      "basename": "3.1 多维随机变量及其联合分布",
+      "path": "02 概率论与数理统计（茆诗松）/3.1 多维随机变量及其联合分布.md"
     },
     {
       "basename": "【摘录】第五章 统计量及其分布",
@@ -19,10 +31,6 @@
     {
       "basename": "3.2 边际分布与随机变量的独立性",
       "path": "02 概率论与数理统计（茆诗松）/3.2 边际分布与随机变量的独立性.md"
-    },
-    {
-      "basename": "test",
-      "path": "00 inbox/test.md"
     },
     {
       "basename": "2.5 常用连续分布",
@@ -43,10 +51,6 @@
     {
       "basename": "mindmap",
       "path": "00 template/mindmap.md"
-    },
-    {
-      "basename": "常用以及自定义快捷键",
-      "path": "00 inbox/常用以及自定义快捷键.md"
     },
     {
       "basename": "日记模板",
