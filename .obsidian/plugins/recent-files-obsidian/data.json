@@ -5,6 +5,10 @@
       "path": "03 清风数模/第三讲：插值算法.md"
     },
     {
+      "basename": "Home",
+      "path": "00 inbox/Home.md"
+    },
+    {
       "basename": "05-05 斯皮尔曼相关系数",
       "path": "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "未命名",
       "path": "03 清风数模/未命名.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 inbox/Home.md"
     },
     {
       "basename": "05-04 对数据进行正态分布检验",
