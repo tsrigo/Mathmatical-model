@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "00 inbox/Home.md"
+    },
+    {
+      "basename": "【编程】第五讲总结",
+      "path": "03 清风数模/第五讲：相关系数/【编程】第五讲总结.md"
+    },
+    {
       "basename": "05-05 斯皮尔曼相关系数",
       "path": "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md"
     },
@@ -9,8 +17,12 @@
       "path": "03 清风数模/第五讲：相关系数/05-04 对数据进行正态分布检验.md"
     },
     {
-      "basename": "Home",
-      "path": "00 inbox/Home.md"
+      "basename": "YAML",
+      "path": "00 template/YAML.md"
+    },
+    {
+      "basename": "05-01 皮尔逊相关系数的计算以及数据的描述性统计",
+      "path": "03 清风数模/第五讲：相关系数/05-01 皮尔逊相关系数的计算以及数据的描述性统计.md"
     },
     {
       "basename": "常用以及自定义快捷键",
@@ -49,20 +61,12 @@
       "path": "03 清风数模/第五讲：相关系数/05-03 皮尔逊相关系数假设检验.md"
     },
     {
-      "basename": "05-01 皮尔逊相关系数的计算以及数据的描述性统计",
-      "path": "03 清风数模/第五讲：相关系数/05-01 皮尔逊相关系数的计算以及数据的描述性统计.md"
-    },
-    {
       "basename": "test",
       "path": "00 inbox/test.md"
     },
     {
       "basename": "3.2 边际分布与随机变量的独立性",
       "path": "02 概率论与数理统计（茆诗松）/3.2 边际分布与随机变量的独立性.md"
-    },
-    {
-      "basename": "YAML",
-      "path": "00 template/YAML.md"
     },
     {
       "basename": "试一下bookxnote导入ob",
