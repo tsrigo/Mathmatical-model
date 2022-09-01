@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7fea2da295934a2e",
+        "id": "d88ffa5b5dd471d0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 inbox/Home.md",
+            "file": "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 inbox/Home.md",
+                "file": "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 inbox/Home.md",
+                "file": "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 inbox/Home.md"
+                "file": "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md"
               }
             }
           },
@@ -145,8 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7fea2da295934a2e",
+  "active": "d88ffa5b5dd471d0",
   "lastOpenFiles": [
+    "03 清风数模/第五讲：相关系数/05-04 对数据进行正态分布检验.md",
+    "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md",
     "00 inbox/Home.md",
     "00 template/日记模板.md",
     "00 template/mindmap.md",
@@ -154,8 +156,6 @@
     "01 日记/2022-08-28 周日.md",
     "02 概率论与数理统计（茆诗松）/2.5 常用连续分布.md",
     "02 概率论与数理统计（茆诗松）/3.1 多维随机变量及其联合分布.md",
-    "02 概率论与数理统计（茆诗松）/【摘录】第五章 统计量及其分布.md",
-    "03 清风数模/第五讲：相关系数/05-03 皮尔逊相关系数假设检验.md",
-    "03 清风数模/第五讲：相关系数/05-01 皮尔逊相关系数的计算以及数据的描述性统计.md"
+    "02 概率论与数理统计（茆诗松）/【摘录】第五章 统计量及其分布.md"
   ]
 }
