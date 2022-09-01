@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "00 inbox/Home.md"
-    },
-    {
-      "basename": "【编程】第五讲总结",
-      "path": "03 清风数模/第五讲：相关系数/【编程】第五讲总结.md"
+      "basename": "第三讲：插值算法",
+      "path": "03 清风数模/第三讲：插值算法.md"
     },
     {
       "basename": "05-05 斯皮尔曼相关系数",
       "path": "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md"
     },
     {
-      "basename": "05-04 对数据进行正态分布检验",
-      "path": "03 清风数模/第五讲：相关系数/05-04 对数据进行正态分布检验.md"
-    },
-    {
       "basename": "YAML",
       "path": "00 template/YAML.md"
+    },
+    {
+      "basename": "mindmap",
+      "path": "00 template/mindmap.md"
+    },
+    {
+      "basename": "【编程】第五讲总结",
+      "path": "03 清风数模/第五讲：相关系数/【编程】第五讲总结.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "03 清风数模/未命名.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00 inbox/Home.md"
+    },
+    {
+      "basename": "05-04 对数据进行正态分布检验",
+      "path": "03 清风数模/第五讲：相关系数/05-04 对数据进行正态分布检验.md"
     },
     {
       "basename": "05-01 皮尔逊相关系数的计算以及数据的描述性统计",
@@ -31,10 +43,6 @@
     {
       "basename": "日记模板",
       "path": "00 template/日记模板.md"
-    },
-    {
-      "basename": "mindmap",
-      "path": "00 template/mindmap.md"
     },
     {
       "basename": "2022-08-29 周一",
