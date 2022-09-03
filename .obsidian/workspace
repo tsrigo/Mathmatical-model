@@ -7,8 +7,12 @@
         "id": "74fc2e192b62e92f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "03 清风数模/第三讲：插值算法.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 清风数模/第三讲：插值算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 清风数模/第三讲：插值算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 清风数模/第三讲：插值算法.md"
+              }
             }
           },
           {
@@ -138,13 +146,13 @@
   },
   "active": "74fc2e192b62e92f",
   "lastOpenFiles": [
-    "03 清风数模/未命名.md",
+    "03 清风数模/第五讲：相关系数/【编程】第五讲总结.md",
     "00 inbox/Home.md",
+    "03 清风数模/未命名.md",
     "03 清风数模/第五讲：相关系数/05-05 斯皮尔曼相关系数.md",
     "00 template/YAML.md",
     "00 template/mindmap.md",
     "03 清风数模/第三讲：插值算法.md",
-    "03 清风数模/第五讲：相关系数/【编程】第五讲总结.md",
     "03 清风数模/第五讲：相关系数/05-04 对数据进行正态分布检验.md",
     "03 清风数模/第五讲：相关系数/05-01 皮尔逊相关系数的计算以及数据的描述性统计.md",
     "00 template/日记模板.md"
